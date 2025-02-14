@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yatharth Singh</h1>
 <h3 align="center">"🚀 Full of Curiosity | Diving into Web Dev & Programming | PWIOI 🌐"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yatharth-s017&label=Profile%20views&color=0e75b6&style=flat" alt="yatharth-s017" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yatharth-S017&label=Profile%20views&color=0e75b6&style=flat" alt="yatharth-S017" /> </p>
 
  <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kricodes-git&theme=dracula&no-frame=true&column=4&row=1&margin-w=15&no-bg=true&title=Commit,Repositories,Followers,PullRequest" alt="kricodes-git" />
