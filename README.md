@@ -67,3 +67,6 @@
 
 <br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yatharth-s017&show_icons=true&locale=en&layout=compact" alt="yatharth-s017" /></p>
+
+<br><br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yatharth-S017&bg_color=1f1f1e&color=26f50a&line=569e4c&point=5ac752&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
