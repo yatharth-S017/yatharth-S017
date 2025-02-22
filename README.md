@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatharth-S017&label=Profile%20views&color=0e75b6&style=flat" alt="yatharth-S017" /> </p>
 
  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kricodes-git&theme=dracula&no-frame=true&column=4&row=1&margin-w=15&no-bg=true&title=Commit,Repositories,Followers,PullRequest" alt="kricodes-git" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yatharth-S017&theme=dracula&no-frame=true&column=4&row=1&margin-w=15&no-bg=true&title=Commit,Repositories,Followers,PullRequest" alt="yatharth-S017" />
 </p>
 
 - 🌱 I’m currently learning **Javascript**
