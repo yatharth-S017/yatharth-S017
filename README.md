@@ -8,6 +8,7 @@
 </p>
 
 - 🌱 I’m currently learning **Javascript**
+- 
 
 - 👨‍💻 All of my projects are available at [https://github.com/yatharth-S017](https://github.com/yatharth-S017)
 
@@ -19,7 +20,7 @@
 💻 JavaScript | 📊 Data Structures & Algorithms | 🌍 Open Source Contributions
 
 <br>
-🎯 Current Goal:
+🎯 Current Goal: <br>
 🚀 Exploring Open Source<br>
     Competitive Programming <br>
     and diving into AI & Machine Learning
